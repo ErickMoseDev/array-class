@@ -1,2 +1,2 @@
 # array-class
-Code from Monday's class on Arrays Intros
+Code from Monday's class on Arrays 
